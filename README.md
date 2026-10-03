@@ -32,3 +32,6 @@ Os primeiros anos (1999 a 2001) têm poucas reviews, então médias e variaçõe
 2012 é um ano incompleto (dados até outubro), o que distorce a comparação com 2011.
 O % Útil considera apenas quem votou, e reviews sem votos ficam de fora do cálculo.
 A análise é descritiva: não investiga as causas da queda da nota média.
+
+## Link do Dashboard
+https://app.fabric.microsoft.com/view?r=eyJrIjoiMWQ0MjEyODUtMGY5MS00ZDViLWI0ZjMtMTM4Mzk3MGE3MzE3IiwidCI6IjQyNDgxYTM3LWZlZmQtNDNhMy1hOGI0LTQxZGY5Njk2M2EwMCJ9
